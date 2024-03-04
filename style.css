@@ -26,6 +26,7 @@
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
+    margin-top: 80px;
 }
 
 .img {
@@ -38,6 +39,21 @@
     display: flex;
     list-style-type: none;
 }
+
+.phone-click {
+    text-decoration: none;
+    color: #A9A9FD;
+}
+
+.mail-click {
+    text-decoration: none;
+    color: #A9A9FD;
+}
+
+.header-text {
+    text-align: center;
+}
+
 
 .header-info {
     padding-left: 50px;
@@ -69,6 +85,11 @@
 
 .right>li {
     color: black;
+}
+
+.experience-text {
+    padding: 10px 320px;
+    color: #9999A3;
 }
 
 /* main */
